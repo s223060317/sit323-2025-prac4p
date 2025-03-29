@@ -1,5 +1,5 @@
 # sit323-2025-prac4p
-# SIT323/SIT737 - Task 4.1P: Calculator Microservice
+# Task 4.1P: Calculator Microservice
 
 This project is a simple calculator microservice built using Node.js and Express. It supports basic arithmetic operations including addition, subtraction, multiplication, and division. The goal of this task is to demonstrate how to create a basic REST API that can receive input through query parameters and return results in JSON format.
 
